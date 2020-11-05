@@ -1,0 +1,12 @@
+#marqueeStyle{
+    background-color: aqua;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: bisque;
+}
+iframe {
+    width: 100%;
+}
